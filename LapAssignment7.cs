@@ -53,7 +53,7 @@ namespace T1807M1.Properties.Session7
                         }
                     }
                     Console.WriteLine(i+":"+j);
-                    Thread.Sleep(millisecondsTimeout:100);
+                    Thread.Sleep(millisecondsTimeout:1000);
                 }
 
                 g = 60;
